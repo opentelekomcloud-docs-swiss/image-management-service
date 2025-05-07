@@ -36,6 +36,14 @@ If the OS cannot be identified or is not supported:
    |                                   |                                           |
    |                                   | Windows 7 Enterprise 64bit                |
    |                                   |                                           |
+   |                                   | Windows Server 2022 Standard 64bit        |
+   |                                   |                                           |
+   |                                   | Windows Server 2022 Datacenter 64bit      |
+   |                                   |                                           |
+   |                                   | Windows Server 2019 Standard 64bit        |
+   |                                   |                                           |
+   |                                   | Windows Server 2019 Datacenter 64bit      |
+   |                                   |                                           |
    |                                   | Windows Server 2016 Standard 64bit        |
    |                                   |                                           |
    |                                   | Windows Server 2016 Datacenter 64bit      |

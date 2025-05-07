@@ -10,7 +10,7 @@ You need to prepare an image file that meets the platform requirements.
 .. note::
 
    -  You are advised to complete the file system, network, and driver configurations in :ref:`Table 1 <en-us_topic_0030713198__table85212269215>` on the VM and then export the image file. You can also complete the configurations on the created ECSs. For details, see :ref:`What Do I Do If a Linux Image File Is Not Pre-Configured When I Use It to Register a Private Image? <en-us_topic_0030713211>`
-   -  Currently, only RAW and ZVHD2 files can be imported (maximum file size: 1 TB). In addition to the requirements described in :ref:`Table 1 <en-us_topic_0030713198__table85212269215>`, a bitmap file needs to be generated for each RAW image file. The bitmap file is uploaded together with the image file. For details, see :ref:`Quickly Importing an Image File <en-us_topic_0030713151>`.
+   -  Currently, a large image file (maximum: 1 TB) can be converted into RAW or ZVHD2 and imported using fast import. In addition to the requirements described in :ref:`Table 1 <en-us_topic_0030713198__table85212269215>`, a bitmap file needs to be generated for each RAW image file. The bitmap file is uploaded together with the image file. For details, see :ref:`Quickly Importing an Image File <en-us_topic_0030713151>`.
 
 .. _en-us_topic_0030713198__table85212269215:
 
