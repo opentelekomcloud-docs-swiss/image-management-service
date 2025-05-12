@@ -149,15 +149,15 @@ The following describes how to install Cloud-Init on an ECS running SUSE Linux, 
 
    .. table:: **Table 1** Cloud-Init installation package addresses
 
-      +---------+----------+------------------------------------------------------------------+
-      | OS Type | Version  | How to Obtain                                                    |
-      +=========+==========+==================================================================+
-      | CentOS  | 6 32-bit | https://archives.fedoraproject.org/pub/archive/epel/6/i386/      |
-      +---------+----------+------------------------------------------------------------------+
-      |         | 6 64-bit | https://archives.fedoraproject.org/pub/archive/epel/6/x86_64/    |
-      +---------+----------+------------------------------------------------------------------+
-      |         | 7 64-bit | https://archives.fedoraproject.org/pub/epel/7/x86_64/Packages/e/ |
-      +---------+----------+------------------------------------------------------------------+
+      +---------+----------+--------------------------------------------------------------------------+
+      | OS Type | Version  | How to Obtain                                                            |
+      +=========+==========+==========================================================================+
+      | CentOS  | 6 32-bit | https://archives.fedoraproject.org/pub/archive/epel/6/i386/              |
+      +---------+----------+--------------------------------------------------------------------------+
+      |         | 6 64-bit | https://archives.fedoraproject.org/pub/archive/epel/6/x86_64/            |
+      +---------+----------+--------------------------------------------------------------------------+
+      |         | 7 64-bit | https://archives.fedoraproject.org/pub/archive/epel/7/x86_64/Packages/e/ |
+      +---------+----------+--------------------------------------------------------------------------+
 
    #. Run the following commands to install Cloud-Init:
 
