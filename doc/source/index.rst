@@ -9,5 +9,6 @@ Image Management Service (IMS) provides flexible self-service and comprehensive 
 
    .. service_card::
       :service_type: ims
+      :cloud_environment: swiss
       :umn: This document describes basic concepts, functions, key terms, and FAQs of the Image Management Service (IMS) and provides instructions for quickly creating private images and using images to create ECSs.
       :api-ref: This document describes application programming interfaces (APIs) of Image Management Service (IMS) and provides API parameter description and example values.
